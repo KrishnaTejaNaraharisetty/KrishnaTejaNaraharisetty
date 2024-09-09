@@ -28,6 +28,42 @@ I am a passionate and results-driven computer science graduate student, speciali
 
 ---
 
+# Hi there, I'm Krishna Teja Naraharisetty 👋  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF5733&lines=Software+Developer+%7C+Data+Scientist;Passionate+about+ML%2C+AI%2C+and+Web+Development)](https://git.io/typing-svg)
+
+---
+
+## 💡 Skills
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Machine Learning**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+**Cloud Platforms**  
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Krishna Teja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![Krishna Teja's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical)
+
+---
+
+## 🔗 Contact & Social
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/KrishnaTejaNaraharisetty)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ornate-tanuki-85f167.netlify.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:knarahar@uncc.edu)
+
+
 ## 📊 GitHub Stats
 
 ![Krishna Teja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishnaTejaNaraharisetty&show_icons=true&theme=radical)
