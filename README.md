@@ -26,13 +26,6 @@ I am a passionate and results-driven computer science graduate student, speciali
 **Tools & Frameworks**: Hadoop, Spark, GitHub, Anaconda, Jupyter Notebooks  
 **Cloud Platforms**: Microsoft Azure (AZ-900 Certified), Google Cloud Platform  
 
----
-
-# Hi there, I'm Krishna Teja Naraharisetty 👋  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF5733&lines=Software+Developer+%7C+Data+Scientist;Passionate+about+ML%2C+AI%2C+and+Web+Development)](https://git.io/typing-svg)
-
----
-
 ## 💡 Skills
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -49,14 +42,6 @@ I am a passionate and results-driven computer science graduate student, speciali
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![Krishna Teja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Krishna Teja's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical)
-
----
 
 ## 🔗 Contact & Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/KrishnaTejaNaraharisetty)
