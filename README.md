@@ -28,6 +28,14 @@ I am a passionate and results-driven computer science graduate student, speciali
 
 ---
 
+## 📊 GitHub Stats
+
+![Krishna Teja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishnaTejaNaraharisetty&show_icons=true&theme=radical)
+
+![Krishna Teja's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KrishnaTejaNaraharisetty&theme=radical)
+
+---
+
 ## 👨‍💻 Professional Experience
 ### Systems Engineer, Tata Consultancy Services, Hyderabad (Jun '22 – Jun '23)
 - Developed data-driven insights and visualizations using PowerBI, aiding decision-making.
