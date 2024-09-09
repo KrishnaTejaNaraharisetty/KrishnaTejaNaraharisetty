@@ -14,6 +14,21 @@ I am a passionate and results-driven computer science graduate student, speciali
 **Bachelor of Technology, Computer Science & Engineering** (Aug '18 – Jun '22)  
 - CGPA: 3.7/4  
 
+## 🔗 Contact & Social
+
+<p>
+    <a href="mailto:naraharikrishna007@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://ornate-tanuki-85f167.netlify.app">
+        <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
+    </a>
+    <a href="https://www.linkedin.com/in/krishna-teja-naraharisetty-3592211a9/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+</p>
+
+
 ## 💡 Skills
 
 **Languages**  
@@ -86,27 +101,14 @@ I am a passionate and results-driven computer science graduate student, speciali
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 </p>
 
-## 🔗 Contact & Social
-
-<p>
-    <a href="mailto:naraharikrishna007@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://ornate-tanuki-85f167.netlify.app">
-        <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
-    </a>
-    <a href="https://www.linkedin.com/in/krishna-teja-naraharisetty-3592211a9/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-</p>
-
-
 
 ## 📊 GitHub Stats
 
-![Krishna Teja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishnaTejaNaraharisetty&show_icons=true&theme=radical)
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=KrishnaTejaNaraharisetty&show_icons=true&theme=radical" alt="Krishna Teja's GitHub Stats" style="margin-right: 10px;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=KrishnaTejaNaraharisetty&theme=radical" alt="Krishna Teja's GitHub Streak"/>
+</p>
 
-![Krishna Teja's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KrishnaTejaNaraharisetty&theme=radical)
 
 ---
 
