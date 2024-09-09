@@ -14,13 +14,6 @@ I am a passionate and results-driven computer science graduate student, speciali
 **Bachelor of Technology, Computer Science & Engineering** (Aug '18 – Jun '22)  
 - CGPA: 3.7/4  
 
-🌱 I am continuously learning and looking forward to collaborating on open-source and innovative projects in machine learning, software development, and data science!
-
-# Hi there, I'm Krishna Teja Naraharisetty 👋  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF5733&lines=Software+Developer+%7C+Data+Scientist;Passionate+about+ML%2C+AI%2C+and+Web+Development)](https://git.io/typing-svg)
-
----
-
 ## 💡 Skills
 
 **Languages**  
@@ -159,6 +152,8 @@ I am a passionate and results-driven computer science graduate student, speciali
   Presented at the International Conference on Innovative Computing, Informatics, and Advanced Communication Systems (ICICIAC - 2022).
 
 ---
+
+🌱 I am continuously learning and looking forward to collaborating on open-source and innovative projects in machine learning, software development, and data science!
 
 ## 🔍 Let's Connect!
 - 📧 Email: knarahar@uncc.edu  
