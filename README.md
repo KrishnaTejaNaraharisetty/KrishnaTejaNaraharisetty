@@ -110,48 +110,21 @@ I am a passionate and results-driven computer science graduate student, speciali
 
 ---
 
-## 👨‍💻 Professional Experience
-### Systems Engineer, Tata Consultancy Services, Hyderabad (Jun '22 – Jun '23)
-- Developed data-driven insights and visualizations using PowerBI, aiding decision-making.
-- Optimized data workflows using Hadoop and Spark, processing large datasets efficiently.
-- Implemented machine learning models for predictive analysis using Python.
-- Wrote SQL queries to support data extraction and machine learning pipelines.
+## 💼 Seeking Opportunities
 
-### Web Developer Intern, Verzeo Edutech, Hyderabad (May '20 – Jul '20)
-- Built data-driven web applications using machine learning models for personalized user experiences.
-- Developed responsive web interfaces using JavaScript, HTML, and CSS to enhance user engagement.
+I am actively seeking full-time opportunities in the following areas:
+- **Software Development**
+- **Software Engineering**
+- **Data Science**
+- **Data Analysis**
+- **Data Engineering**
 
----
+With a strong academic background and hands-on experience in various technologies, I am eager to contribute to innovative projects and bring a data-driven approach to problem-solving. If you have any exciting opportunities or collaboration ideas, I would love to hear from you!
 
-## 🌟 Projects
-### **Email Spam Classifier** (Jan '24 – May '24)
-- Developed a classifier using NLP techniques to detect spam emails with Random Forest and Naive Bayes algorithms.
-- Built a Flask-based web interface to interact with the model for real-time spam detection.
-
-### **Personal Budget Management Application** (Oct '23 – Dec '23)
-- Engineered a React-based web app integrating a machine learning model to manage personal budgets.
-- Deployed on DigitalOcean with a MongoDB backend and a Flask API.
-
-### **Big Mart Sales Prediction using Machine Learning** (Aug '21 – May '22)
-- Created a recommendation system leveraging XGBoost, Decision Trees, and collaborative filtering techniques to improve sales prediction and recommendations.
-
-### **Sewer Level Detection and Alert System** (Mar '21 – Jul '21)
-- Developed an IoT-based sewer level detection system using microprocessors and sensors, integrated with machine learning for predictive overflow alerts.
+Feel free to explore my GitHub repositories and reach out if you think I would be a good fit for your team or project.
 
 ---
 
-## 🏆 Certifications
-- **Microsoft Azure Fundamentals (AZ-900)** – Microsoft  
-- **Cloud Computing Basics (Cloud 101)** – Coursera  
-- **Programming Essentials in Python** – Cisco Networking Academy  
-
----
-
-## 📢 Presentations
-- **Big Mart Sales Prediction using Machine Learning**  
-  Presented at the International Conference on Innovative Computing, Informatics, and Advanced Communication Systems (ICICIAC - 2022).
-
----
 
 🌱 I am continuously learning and looking forward to collaborating on open-source and innovative projects in machine learning, software development, and data science!
 
