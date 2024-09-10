@@ -131,7 +131,7 @@ Feel free to explore my GitHub repositories and reach out if you think I would b
 🌱 I am continuously learning and looking forward to collaborating on open-source and innovative projects in machine learning, software development, and data science!
 
 ## 🔍 Let's Connect!
-- 📧 Email: knarahar@uncc.edu  
+- 📧 Email: naraharikrishna007@gmail.com
 - 🌐 Website: [ornate-tanuki-85f167.netlify.app](https://ornate-tanuki-85f167.netlify.app)  
 - 💼 LinkedIn: [Krishna Teja Naraharisetty](https://linkedin.com/in/KrishnaTejaNaraharisetty)
 
